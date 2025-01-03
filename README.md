@@ -34,4 +34,7 @@ A backend service built using FastAPI and MongoDB to manage users and their note
 ![FastAPI - Swagger UI - Google Chrome 1_3_2025 10_47_40 AM](https://github.com/user-attachments/assets/804673f5-e652-4d6c-9a3f-f74984cb93ae)
 
 
+![FastAPI - Swagger UI - Google Chrome 1_3_2025 10_48_01 AM](https://github.com/user-attachments/assets/d215548d-3fd9-4543-aa60-f492e62b23d7)
+
+
 ![FastAPI - Swagger UI - Google Chrome 1_3_2025 10_47_49 AM](https://github.com/user-attachments/assets/6a75b379-7dc8-43f0-b469-b7a69dda818e)
